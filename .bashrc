@@ -9,7 +9,7 @@ case $- in
 esac
 
 # Trim the directory path to only show this number of parents.
-PROMPT_DIRTRIM=3
+PROMPT_DIRTRIM=2
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options
